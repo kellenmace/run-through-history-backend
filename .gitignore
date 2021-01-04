@@ -1,3 +1,11 @@
 .DS_Store
 uploads/
 upgrade/
+
+plugins/advanced-custom-fields/
+plugins/wordpress-importer/
+plugins/wp-gatsby/
+plugins/wp-graphql-acf/
+plugins/wp-graphql-jwt-authentication/
+plugins/wp-graphql-tax-query/
+plugins/wp-graphql/
